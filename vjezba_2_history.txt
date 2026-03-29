@@ -1,0 +1,16 @@
+  195  touch vjezba_2/vjezba_2
+  196  git add .
+  197  git commit -m "Rješen zadatak 1"
+  198  git push origin mail
+  199  git push origin main
+  200  git push origin main
+  201  git commit -m "Riješen zadatak 1#\ngit commit -m "Riješen zadatak 1"\ntouch vjezba_2/vjezba_2.txt\ntouch vjezba_2/vjezba_2.txt\n"
+  202  git add .\ngit commit -m "Riješen zadatak 1"
+  203  git push origin main
+  204  git add .\ngit commit -m "Rijesen zadatak 1"
+  205  git push origin main
+  206  git remote -v
+  207  git remote set-url origin https://github.com/Ivan-boz/vjezbe.git
+  208  git push origin main
+  209  git push -u origin main
+  210  git push -u origin main
