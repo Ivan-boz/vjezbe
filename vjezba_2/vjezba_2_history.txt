@@ -1,0 +1,16 @@
+  257  mkdir subdir1 subdir2
+  258  touch subdir1/subfile{1..2}.txt
+  259  touch subdir2/subfile{1..2}.txt
+  260  ls -laS
+  261  ls lsaH
+  262  ls -lSH
+  263  tree -a
+  264  brew install tree
+  265  tree -1
+  266  tree -a
+  267  cd ../../
+  268  git add vjezba_2/zadatak5
+  269  git add zadatak5
+  270  git add data/zadatak5
+  271  git commit -m "Riješen zadatak 5"
+  272  git push origin main
